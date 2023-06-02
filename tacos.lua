@@ -21,7 +21,7 @@ local Functions = loadstring(game:HttpGet("https://raw.githubusercontent.com/Reg
 local CustomShop = loadstring(game:HttpGet("https://raw.githubusercontent.com/MateiDaBest/Utilities/main/Doors/Custom%20Shop%20Items/Main.lua"))()
 local Whopper = game:GetObjects("rbxassetid://13614252050")[1]
 local Equip = "rbxassetid://142376088"
-local Eat = "rbxassetid://6830386386"
+local Eat = "rbxassetid://142376088"
 local Sound = Instance.new("Sound") 
 local Sound2 = Instance.new("Sound")
 
